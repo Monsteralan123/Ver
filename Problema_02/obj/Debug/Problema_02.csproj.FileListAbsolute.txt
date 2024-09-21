@@ -1,0 +1,8 @@
+C:\poo_EChungaVS\Problema_02\Problema_02\bin\Debug\Problema_02.exe.config
+C:\poo_EChungaVS\Problema_02\Problema_02\bin\Debug\Problema_02.exe
+C:\poo_EChungaVS\Problema_02\Problema_02\bin\Debug\Problema_02.pdb
+C:\poo_EChungaVS\Problema_02\Problema_02\obj\Debug\Problema_02.csproj.AssemblyReference.cache
+C:\poo_EChungaVS\Problema_02\Problema_02\obj\Debug\Problema_02.csproj.SuggestedBindingRedirects.cache
+C:\poo_EChungaVS\Problema_02\Problema_02\obj\Debug\Problema_02.csproj.CoreCompileInputs.cache
+C:\poo_EChungaVS\Problema_02\Problema_02\obj\Debug\Problema_02.exe
+C:\poo_EChungaVS\Problema_02\Problema_02\obj\Debug\Problema_02.pdb
